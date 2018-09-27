@@ -1,12 +1,17 @@
 # Framer X
 
-## Welcome
+## Welcome 환영합니다.
 
 Thanks for joining the beta program. This guide is very much a work in progress towards the final release. Feel free to send us feedback, or make suggestions on GitHub directly.
 
-### The Best Way to Start; TLDR
+베타 프로그램에 참여해 주셔서 감사합니다. 이 가이드는 마지막 배포를 앞두고 많은 작업이 진행 중입니다. 언제든 깃헙을 통해 피드백 또는 제안을 주시기 바랍니니다.
+
+### The Best Way to Start; TLDR 시작하기 가장 좋은 방법; TLDR
 
 * Read [how to think about Framer X](https://framer.gitbook.io/framer/#how-to-think-about-framer-x) and supported design work below.
+
+* [Framer X를 생각하는 방법](https://framer.gitbook.io/framer/#how-to-think-about-framer-x)과 을 읽어 보세요.
+
 * Read the [beta program page](introduction/beta/) on what to expect in Beta 1. _**Hint**: some of the code parts are still in progress \(code functions, state\), and being offline will cause some issues._
 * Explore the canvas, automatic layout, styling, stacks, design components, flow and scroll interactions, using the store to install packages and build a simple React component yourself, optionally with some [custom properties](components/#adding-framer-interface-for-props) that you can configure from the Framer interface.
 
